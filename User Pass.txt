@@ -1,0 +1,7 @@
+Customer : 
+Email : customer2@gmail.com
+Pass : 22222222
+
+Member :
+Email : member2@gmail.com
+Pass : 22222222
